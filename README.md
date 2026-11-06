@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Sudipa Kundu Chaity 👋
 
-<!--
-**Sudipa-Kundu-Chaity/Sudipa-Kundu-Chaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering undergraduate at BRAC University, interested in software development, problem-solving, and building practical applications.
 
-Here are some ideas to get you started:
+I'm continuously working on strengthening my programming fundamentals and exploring new technologies through academic and collaborative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Featured Projects
+
+  ### 🌍 Beyond Borders
+  **Global Scholarship & University Guidance Portal**
+
+  A team-developed web application designed to help students explore international study opportunities.
+
+  Contributed to the Country Study Guide, Scholarship Search, and Eligibility Checker features.
+
+  **Tech Stack:** 'Python' , 'Django' , 'HTML' , 'CSS' , 'MySQL'
+
+  [View Repository →](https://github.com/mushfiqsajeed/Beyond_Borders)
